@@ -1,5 +1,5 @@
 // map object
-const myMap = {
+let myMap = {
 	coordinates: [],
 	businesses: [],
 	map: {},
